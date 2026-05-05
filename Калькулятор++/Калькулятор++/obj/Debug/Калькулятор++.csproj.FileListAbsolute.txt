@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор++.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор__.Form1.resources
+C:\Users\student\source\repos\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор__.Properties.Resources.resources
+C:\Users\student\source\repos\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор++.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор++.csproj.CoreCompileInputs.cache
+D:\Калькулятор++\Калькулятор++\bin\Debug\Калькулятор++.exe.config
+D:\Калькулятор++\Калькулятор++\bin\Debug\Калькулятор++.exe
+D:\Калькулятор++\Калькулятор++\bin\Debug\Калькулятор++.pdb
+D:\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор++.csproj.AssemblyReference.cache
+D:\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор__.Form1.resources
+D:\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор__.Properties.Resources.resources
+D:\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор++.csproj.GenerateResource.cache
+D:\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор++.csproj.CoreCompileInputs.cache
+D:\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор++.exe
+D:\Калькулятор++\Калькулятор++\obj\Debug\Калькулятор++.pdb
